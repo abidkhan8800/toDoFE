@@ -1,0 +1,55 @@
+.main{
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    border: 2px solid #d7d7d7;
+    border-bottom: 0px;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    background-color: #5c8297;
+    padding-top: 30px 0px;
+    margin-top: 0px;
+    color: white;
+}
+.addItem {
+    position: relative;
+    padding-bottom: 0px;
+    height: 30px;
+}
+.addText {
+    width: 80%;
+    height: 18px;
+    padding: 5px;
+    font-size: 20px;
+}
+.addItems button {
+    height: 32px;
+    width: 50px;
+    padding: 5px;
+}
+
+ul {
+    list-style: none;
+    font-size: 20px;
+    color: #686868;
+    margin-bottom: 0px;
+    margin-left: -40px;
+}
+
+li{
+    border-bottom: 2px solid #bfbfbf;
+    background-color: #d7d7d7;
+    padding: 10px 0px;
+    margin-bottom: 5px;
+}
+span{
+    cursor: pointer;
+    position: relative;
+    float: right;
+    margin-right: 10px;
+
+}
